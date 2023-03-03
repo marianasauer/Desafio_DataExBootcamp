@@ -1,7 +1,7 @@
 # Desafio_DataExBootcamp
 Construção de uma Pipeline de dados no Notebook com Azure Data Studio e validar habilidades com a linguagem SQL e T-SQL.
 
-Requisitos de Técnicos
+Requisitos Técnicos:
 
 Desenvolva um pipeline de integração de dados usando o Notebook no 
 Azure Data Studio e realize a modelagem Star Schema, desnormalizando
